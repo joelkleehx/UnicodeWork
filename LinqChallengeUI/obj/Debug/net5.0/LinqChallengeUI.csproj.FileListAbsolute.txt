@@ -1,0 +1,16 @@
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.exe
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.deps.json
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.runtimeconfig.json
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.runtimeconfig.dev.json
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.dll
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\bin\Debug\net5.0\LinqChallengeUI.pdb
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.csproj.AssemblyReference.cache
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.AssemblyInfoInputs.cache
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.AssemblyInfo.cs
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.csproj.CoreCompileInputs.cache
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.dll
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\refint\LinqChallengeUI.dll
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.pdb
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\LinqChallengeUI.genruntimeconfig.cache
+C:\2022projects\LinqChallengeSolution\LinqChallengeUI\obj\Debug\net5.0\ref\LinqChallengeUI.dll
